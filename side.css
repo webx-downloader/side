@@ -1,4 +1,9 @@
-kep{
-    width: 20%;
-    height: 20%;
+#kép{
+    position: relative;
+    width: 65%;
+    height: 65%;
+    top: 0;
+    left: 0;
+    opacity: 100%;
+    pointer-events: none;
 }
